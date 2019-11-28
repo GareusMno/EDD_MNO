@@ -15,8 +15,18 @@ Activaremos el servidor
 
 ![Cuarto paso](añadir.PNG)
 
+Crearemos un usuario
+
 ![Quinto paso](4.PNG)
+
+Con los permisos que necesitemos.
+
 ![Sexto paso](5.PNG)
-![Septimo paso](6.PNG)
-![Octavo paso](7.PNG)
-![Noveno paso](8.PNG)
+
+Crearemos el repositorio
+
+![Septimo paso](8.PNG)
+
+Ahora cogeremos el checkout command que nos dan y lo ejecutaremos (en mi caso al no tener servidor DNS, pondré la IP directamente, ya que es de mi propia máquina)
+![Octavo paso](6.PNG)
+![Noveno paso](7.PNG)
