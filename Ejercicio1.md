@@ -8,7 +8,7 @@
 
 ![Paso 3](3_RCS.PNG)
 ![Paso 4](4 RCS.PNG)
-![Paso 5](5 RCS.PNG)
+![image](5 RCS.PNG)
 ![Paso 6](6 RCS.PNG)
 ![Paso 7](7 RCS.PNG)
 ![Paso 8](8 RCS.PNG)
