@@ -2,7 +2,7 @@
 
 ##Instalación de extensiones
 
-![Primer paso](1.png)
-![Segundo paso](2.png)
-![Tercer paso](3.png)
-![Cuarto paso](4.png)
+![GareusMno/EDD_MNO](1.png)
+![GareusMno/EDD_MNO](2.png)
+![GareusMno/EDD_MNO](3.png)
+![GareusMno/EDD_MNO](4.png)
