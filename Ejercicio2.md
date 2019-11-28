@@ -2,12 +2,21 @@
 
 ## Instalación de subversion
 
+Instalamos el subversion con el docker
+
 ![Primer paso](1.PNG)
 ![Segundo paso](2.PNG)
-![Segundo paso](añadir.PNG)
+
+Ahora con el subversion instalado, vamos a nuestro local host y entraremos con admin admin
+
 ![Tercer paso](3.PNG)
-![Cuarto paso](4.PNG)
-![Quinto paso](5.PNG)
-![Sexto paso](6.PNG)
-![Septimo paso](7.PNG)
-![Octavo paso](8.PNG)
+
+Activaremos el servidor
+
+![Cuarto paso](añadir.PNG)
+
+![Quinto paso](4.PNG)
+![Sexto paso](5.PNG)
+![Septimo paso](6.PNG)
+![Octavo paso](7.PNG)
+![Noveno paso](8.PNG)
