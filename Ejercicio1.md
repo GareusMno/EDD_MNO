@@ -2,9 +2,11 @@
 
 ##Ejercicios RCS
 
-![Paso 1](1 RCS.PNG)
-![Paso 2](2 RCS.PNG)
-![Paso 3](3 RCS.PNG)
+![Paso 1](1%20RCS.png)
+
+![Paso 2](2_RCS.PNG)
+
+![Paso 3](3_RCS.PNG)
 ![Paso 4](4 RCS.PNG)
 ![Paso 5](5 RCS.PNG)
 ![Paso 6](6 RCS.PNG)
