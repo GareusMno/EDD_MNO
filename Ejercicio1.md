@@ -1,6 +1,6 @@
-#Ejercicio 1
+# Ejercicio 1
 
-##Ejercicios RCS
+## Ejercicios RCS
 
 Creamos el archivo y le añadimos texto
 
