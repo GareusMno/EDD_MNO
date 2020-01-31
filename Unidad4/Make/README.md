@@ -26,8 +26,8 @@ gcc calc.o calcula.c -o calcula
 ### Markfile
 <p>Después crearemos nuestro archivo de Markfile que nos realizará los anteriores comandos por nosotros indicandole que queremos que haga</p>
 
-![calcula](img/calcula1.png)
+![calcula](img/makefile1.png)
 
 <p>Finalmente haremos las distribuciones</p>
 
-![calcula](img/calcula.png)
+![calcula](img/makefile.png)
