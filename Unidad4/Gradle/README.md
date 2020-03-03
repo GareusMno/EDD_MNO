@@ -1,9 +1,9 @@
 # Gradle
 ## Creando nuestro Gradle en NetBeans
-### Crear un paquete Maven
+### Crear un paquete Gradle
 <p>Lo primero, necesitamos tener un NetBeans actualizado con la ultima versión ya que la característica de crear paquetes Maven, Ant o Gradle ha venido con las últimas y si descargas cualquier versión podría no tener esta característica<p>
 
-<p>Para crear nuestro paquete Maven seguiremos estos pasos<p>
+<p>Para crear nuestro paquete Gradle seguiremos estos pasos<p>
 
 ![primero](img/Gradle1.png)
 
