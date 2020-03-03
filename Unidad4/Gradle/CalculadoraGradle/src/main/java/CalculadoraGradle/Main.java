@@ -1,24 +1,17 @@
-# Ant
-## Creando nuestro Ant en NetBeans
-### Crear un paquete Ant
-<p>Lo primero, necesitamos tener un NetBeans actualizado con la ultima versión ya que la característica de crear paquetes Maven, Ant o Gradle ha venido con las últimas y si descargas cualquier versión podría no tener esta característica<p>
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package CalculadoraGradle;
 
-<p>Para crear nuestro paquete Ant seguiremos estos pasos<p>
+import java.util.Scanner;
 
-![primero](img/Ant1.png)
-
-![segundo](img/Ant2.png)
-
-<p> Y nos quedaria algo como esto <p>
-
-![tercero](img/Ant3.png)
-
-### Programar el .java
-
-<p> Finalmente, solo quedará crear nuestro archivo java y programarlo como queramos, en nuestro caso, una calculadora <p>
-
-```
-public class CalculadoraAnt {
+/**
+ *
+ * @author alumne
+ */
+public class Main {
         static int suma(int a, int b){
             return a+b;
         }
@@ -42,7 +35,7 @@ public class CalculadoraAnt {
                 return b;
             }
         }
-    public static void main(){
+    public static void main(String[] args) {
         int a,b;
         Scanner teclado = new Scanner(System.in);
         System.out.print("Dame un numero: ");
@@ -55,5 +48,5 @@ public class CalculadoraAnt {
         System.out.println("La division es: "+division(a,b));
         System.out.println("El mayor es: "+mayorque(a,b));
     }
+    
 }
-```
